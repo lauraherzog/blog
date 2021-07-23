@@ -1,6 +1,7 @@
 ## BASH
 
 * [BASH Basics (de)](https://net.co.at/doc/howto/docs/Linuxfibel/bashprog.htm)
+* [Test Operators](https://kapeli.com/cheat_sheets/Bash_Test_Operators.docset/Contents/Resources/Documents/index)
 
 ## DOCKER
 
